@@ -1,6 +1,12 @@
-# ILUMILINEML
+# Ilumiline ML
 
-# Uploader is Ilumicode/Colorado 
+### Uploader is Ilumicode/Colorado 
+&nbsp;
 
-[V1.08-220301 – Ilumiline ML](https://github.com/CHAUVET-ILUMINARC/ILUMILINEML/blob/cee3a60590fae56bdd400fddc15ca1a294b10706/firmware/ilumilineML_V108_220301.zip)
-- Release software version.
+## Software Versions
+
+[V1.230725 - Ilumiline ML](https://github.com/CHAUVET-ILUMINARC/ILUMILINEML/blob/1072749d46e2a3da0731d6a944e428538e783e6e/firmware/V1.230725.zip)
+- Added full RDM setup/control capability
+
+[V1.08 – Ilumiline ML](https://github.com/CHAUVET-ILUMINARC/ILUMILINEML/blob/1072749d46e2a3da0731d6a944e428538e783e6e/firmware/V1.08_220301.zip)
+- Released initial software version
